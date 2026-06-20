@@ -1,0 +1,6 @@
+{
+  "name": "LogiStack Archive & Billing",
+  "description": "A high-fidelity logistics manifest archive, billing calculation engine, and dynamic conversion dashboard featuring real-time USD/VND rates and an interactive preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
